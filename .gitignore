@@ -1,7 +1,6 @@
 .DS_Store
 .vscode
 .idea
-.devcontainer
 .pytest_cache
 
 */**/.pytest_cache
