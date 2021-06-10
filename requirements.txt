@@ -1,0 +1,11 @@
+jupyterlab
+plotly
+pandas
+torch
+torchvision 
+torchaudio
+ipywidgets
+perfplot
+matplotlib
+flake8
+pytest
