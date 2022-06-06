@@ -2,6 +2,7 @@
 .vscode
 .idea
 .pytest_cache
+.ipynb_checkpoints
 
 */**/.pytest_cache
 */**/.ipynb_checkpoints
