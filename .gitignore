@@ -17,3 +17,8 @@
 /venv
 data
 credentials
+
+
+notebooks/examples_ml/1_regresion/tutorial_regresion
+
+*.v2

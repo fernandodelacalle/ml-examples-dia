@@ -7,6 +7,4 @@ COPY requirements.txt /tmp/
 RUN set -ex; \
     pip3 --no-cache-dir install --requirement /tmp/requirements.txt
 
-RUN jupyter labextension install jupyterlab-plotly@4.14.3
-
 ENTRYPOINT ["/workspace/.devcontainer/docker-entrypoint.sh"]
